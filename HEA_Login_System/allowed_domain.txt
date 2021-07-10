@@ -1,0 +1,5 @@
+dgist.ac.kr
+gist.ac.kr
+kaist.ac.kr
+postech.ac.kr
+unist.ac.kr
